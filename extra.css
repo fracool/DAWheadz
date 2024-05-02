@@ -29,3 +29,13 @@
     background-color: #001426;
     color: #c7cace;
 }
+.btn:hover {
+    background-color: #c7cace;
+    color: #001426;
+}
+.daw{
+    opacity: .8;
+}
+.headz{
+    opacity: 1;
+}
